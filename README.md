@@ -1,4 +1,4 @@
-# Telegram News Scraper v6.0.0
+# Telegram News Scraper 
 
 A high-performance, intelligent news scraping system that automatically collects, processes, and distributes financial news from Telegram channels using MongoDB Atlas, Google Gemini AI, and advanced caching mechanisms.
 
